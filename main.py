@@ -8,7 +8,7 @@ mouse = Controller()
 
 clicking = False
 
-click_speed = 0.001
+click_speed = 0.005
 
 def clicker():
     while True:
