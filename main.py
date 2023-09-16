@@ -10,6 +10,7 @@ clicking = False
 
 click_speed = 0.005
 
+
 def clicker():
     while True:
         if clicking:
